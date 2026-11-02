@@ -1,0 +1,2 @@
+Aquí van las imágenes exportadas desde Figma (página "05 · Exportar web").
+Estructura esperada: img/home/01.jpg … img/cd/01.jpg, img/psy-red/01.jpg, etc.
